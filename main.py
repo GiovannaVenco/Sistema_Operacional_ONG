@@ -18,7 +18,8 @@ habilidades_padrao = [
     "Educação",
     "Cuidados com idosos",
     "Cuidados com animais",
-    "Cozinha"
+    "Cozinha",
+    "Gestão"
 ]
 
 
